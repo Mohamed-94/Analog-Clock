@@ -7,10 +7,10 @@ class BezierClock : Form
 {
     BezierClockControl bclok;
 
-    //public static void Main()
-    //{
-    //    Application.Run(new BezierClock());
-    //}
+    public static void Main()
+    {
+        Application.Run(new BezierClock());
+    }
 
     public BezierClock()
     {
